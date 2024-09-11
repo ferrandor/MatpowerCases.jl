@@ -1,1 +1,5 @@
+name = "MatpowerCases"
+uuid = "b0424e38-4a00-4e08-82d9-216898d8bb51"
+version = "0.1.0"
+
 [deps]
